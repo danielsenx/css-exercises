@@ -1,0 +1,19 @@
+.odd_number_el {
+    background-color: #fc6195;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#title {
+    color: #380bff;
+    font-size: 36px;
+}
+
+.odd_number_el font{
+    font-size: 24px;
+}
+
+#numb4 {
+    background-color: #67ff53;
+    font-size: 24px;
+    font-weight: bold;
+}
